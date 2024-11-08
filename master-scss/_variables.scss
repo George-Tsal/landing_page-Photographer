@@ -1,0 +1,35 @@
+// colors
+$primaryColor: #060606;
+$secondaryColor: #F2ECFF;
+$thirdColor: #FAF8FF;
+$textColor: #060606;
+$butttonColor: #00C896; 
+$textLightColor: #FAF7FF;
+$cardColor: #3E2B3B;
+
+// fonts
+$mainFont:'Montserrat', sans-serif;
+$titleFont:  'Times New Roman', sans-serif;
+$caligraphyFont: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+$lineHeight: 25px;
+
+//sizes
+$containerWidth: 1600px;
+$borderRadius: 7px;
+$marginY: 100px;
+$smMarginY: 40px;
+
+//shadow 
+$shadow: 5px 10px 10px rgba(0, 0, 0, 0.3);
+
+//animations
+$transitionTime: 0.20s;
+$animationTime: 0.35s;
+$spinnerOutTime: 0.60s;
+
+//breakpoints
+$xm-screen: 576px;
+$sm-screen: 576px;
+$md-screen: 768px;
+$lg-screen: 992px;
+$xlg-screen: 1200px;
